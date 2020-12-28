@@ -12,7 +12,6 @@ namespace TestRepo
         {
             Console.WriteLine("Test");
             Console.ReadLine();
-            Console.WriteLine("Faith said HI");
         }
     }
 }
