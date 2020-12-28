@@ -10,7 +10,7 @@ namespace TestRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Test");
+            Console.WriteLine("Testing 123");
             Console.ReadLine();
         }
     }
