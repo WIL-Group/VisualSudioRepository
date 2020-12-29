@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Console;
 
 namespace TestRepo
 {
@@ -10,10 +11,12 @@ namespace TestRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Testing 123");
-            Console.ReadLine();
-            Console.WriteLine("Faith said hi");
-            Console.WriteLine("Hi Faith");
+            WriteLine("Testing 123");
+            ReadLine();
+            WriteLine("Faith said hi");
+            WriteLine("Hi Faith");
+            WriteLine("Shut up Faith!");
+            ReadKey();
         }
     }
 }
