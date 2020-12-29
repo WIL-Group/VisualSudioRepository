@@ -13,6 +13,7 @@ namespace TestRepo
             Console.WriteLine("Testing 123");
             Console.ReadLine();
             Console.WriteLine("Faith said hi");
+            Console.WriteLine("Hi Faith");
         }
     }
 }
